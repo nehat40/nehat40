@@ -4,12 +4,6 @@ Hi, I'm *NEHA T* 👋
 I'm a Data Scientist passionate about building accurate, insightful, and scalable machine learning solutions.  
 Skilled in Python, SQL, Tableau, Power BI, Power Query & Machine Learning | 📊 Business Intelligence & Data Visualization Enthusiast
 
-## 🌐 Socials:
-
-[![LinkedIn](https://www.linkedin.com/in/neha-t-b086b8365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](your-link)
-[![Email](https://in.mail.yahoo.com/d/folders/1?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABvVlMA-MtYiPzHPbZWalHPfCWD8cpUrthvdCi4FIKS0UeuJRk_h-ekHudQtQ-MigVv66tMSdJdPOPl3_ArunCzds1AQIMTucdtj3TCWyZRaXpXxmRRSZlc1cPdyhy3V61SN0rK--dKV5Ni-gbP91l7HxTzR-hH8hTXd3SI3J5uW)](mailto:your-email)
-
----
 
 ## 💻 Tech Stack:
 
